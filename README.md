@@ -3,6 +3,8 @@ TTLMap
 
 ![TTLMap](./imgs/TTLMap.png)
 
+[![Build Status](https://travis-ci.org/retrohacker/ttlmap.svg?branch=master)](https://travis-ci.org/retrohacker/ttlmap)
+
 Wraps JavaScript's `Map` with a Time To Live (TTL). For long running programs, this can help prevent memory leaks in certain cases.
 
 # Features
