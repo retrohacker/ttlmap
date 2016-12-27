@@ -1,6 +1,6 @@
 {
   "name": "ttlmap",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Map with a TTL",
   "main": "index.js",
   "scripts": {
