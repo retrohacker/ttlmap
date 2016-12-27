@@ -12,7 +12,8 @@
   },
   "author": "William Blankenship <william.jblankenship@gmail.com>",
   "license": "GPL-3.0",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "nyc": "^10.0.0",
     "tape": "^4.6.3"
   }
