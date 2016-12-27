@@ -9,7 +9,7 @@ Wraps JavaScript's `Map` with a Time To Live (TTL). For long running programs, t
 
 * Drop in replacement for `Map`
 * Adds a Time To Live to Map Values, defaults to `Infinity`.
-* Supports all versions of Node.js post 0.10
+* Supports all versions of Node.js 0.11+
 * Robust and well tested
   * 100% test coverage
   * Simple, easy to maintain, code base.

@@ -106,6 +106,12 @@ test('has', function (t) {
 });
 
 test('for...in', function (t) {
+  // Feature detection
+  if(!Symbol || !Symbol.iterator) {
+    t.pass('Iterator not supported');
+    return t.end();
+  }
+
   t.plan(4);
   var m = new Map();
   m.set('foo', 'bar');

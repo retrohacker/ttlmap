@@ -4,7 +4,7 @@
   "description": "Map with a TTL",
   "main": "index.js",
   "scripts": {
-    "test": "nyc tape tests/*.js"
+    "test": "nyc tape test/*.js"
   },
   "repository": {
     "url": "git@github.com:retrohacker/ttlmap",
