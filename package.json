@@ -1,0 +1,19 @@
+{
+  "name": "ttlmap",
+  "version": "1.0.0",
+  "description": "Map with a TTL",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc tape tests/*.js"
+  },
+  "repository": {
+    "url": "git@github.com:retrohacker/ttlmap",
+    "type": "git"
+  },
+  "author": "William Blankenship <william.jblankenship@gmail.com>",
+  "license": "GPLv3",
+  "dependencies": {
+    "nyc": "^10.0.0",
+    "tape": "^4.6.3"
+  }
+}
