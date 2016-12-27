@@ -11,7 +11,7 @@
     "type": "git"
   },
   "author": "William Blankenship <william.jblankenship@gmail.com>",
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "dependencies": {
     "nyc": "^10.0.0",
     "tape": "^4.6.3"
